@@ -56,6 +56,6 @@ git clone https://github.com/Frnaxx/Purple-Blood.git
 cd Purple-Blood
 
 # Run the requirements installer
-.\install_requirements.bat
+install_requirements.bat
 ```
 ### Done!
